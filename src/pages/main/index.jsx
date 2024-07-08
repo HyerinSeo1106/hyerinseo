@@ -103,11 +103,11 @@ export default function MainPage() {
         <ul className="list">
           <li>
             Michigan State University (2019 – present)
-            <br />- Ph.D. candidate in political science
+            <br />- Ph.D. candidate in Political Science
           </li>
           <li>
             Michigan State University (May 2020)
-            <br />- M.A. in political science
+            <br />- M.A. in Political Science
           </li>
           <li>
             Seoul National University, Seoul, Republic of Korea (February 2017)
