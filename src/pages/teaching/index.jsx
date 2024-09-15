@@ -19,7 +19,7 @@ export default function TeachingPage() {
                 Syllabus
                 </a>
               </li>
-              <h3 className="sub-title">Good Reviews in survey from students</h3>
+              <h3 className="sub-title">Reviews from Students</h3>
         <ul className="list">
           <li>
             "Dr. Seo had excellent presentations and did a fantastic job
@@ -51,7 +51,7 @@ export default function TeachingPage() {
             itself as well as the teaching."
           </li>
         </ul>
-        <h3 className="sub-title">Notable survey answers</h3>
+        <h3 className="sub-title">Survey Results of Learning Data Analytics</h3>
         <ul className="list">
           <li>
             While more than 40% of students answered that they did not have any
