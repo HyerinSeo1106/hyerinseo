@@ -1,6 +1,9 @@
 import SyllabusPdf from "../../assets/etc/pls202_24spring_syllabus.pdf";
 import SurbeyImg1 from "../../assets/images/surbey1.png";
 import SurbeyImg2 from "../../assets/images/surbey2.png";
+import imgnew1 from "C:/Users/wayhr/OneDrive - Michigan State University/Desktop/PLS202_24SS/q1_plot.png";
+import imgnew2 from "C:/Users/wayhr/OneDrive - Michigan State University/Desktop/PLS202_24SS/q2_plot.png";
+
 export default function TeachingPage() {
   return (
     <section className="main-section">
@@ -8,32 +11,15 @@ export default function TeachingPage() {
         <h2 className="sub-title">TEACHING</h2>
         <ul className="list">
           <li>
-            <a href={SyllabusPdf} target="__blank">
-              PLS 202
-            </a>
-            : Introduction to Data Analytics, Instructor (Spring 2024; Summer
-            2024; Fall 2025 (expected))
+            <a className="bold">PLS 202: Introduction to Data Analytics, Instructor (Spring 2024; Summer
+            2024; Fall 2024 )</a>
           </li>
-          <li>
-            Research Methods, Teaching Assistant for workshops, lab sessions,
-            and introductory methods class in political science (Fall 2023 –
-            Spring 2024)
-          </li>
-          <li>
-            PLS 200: Introduction to Political Science by Prof. Erica Frantz,
-            Teaching Assistant (Fall 2022; Fall 2021)
-          </li>
-          <li>
-            ISS 318: Pandemics and Social Science by Prof. Erica Frantz,
-            Teaching Assistant (Summer 2022)
-          </li>
-          <li>
-            PLS 201: Introduction to Methods of Political Analysis by Prof.
-            Andrew Kerner, Teaching Assistant (Spring 2022; Summer 2021)
-          </li>
-          <li></li>
-        </ul>
-        <h3 className="sub-title">Good Reviews in survey from students</h3>
+              <li>
+                <a href={SyllabusPdf} target="__blank">
+                Syllabus
+                </a>
+              </li>
+              <h3 className="sub-title">Good Reviews in survey from students</h3>
         <ul className="list">
           <li>
             "Dr. Seo had excellent presentations and did a fantastic job
@@ -75,6 +61,25 @@ export default function TeachingPage() {
         </ul>
         <img src={SurbeyImg1} alt="" style={{ marginTop: "2rem" }} />
         <img src={SurbeyImg2} alt="" />
+          <li>
+            Research Methods, Teaching Assistant for workshops, lab sessions,
+            and introductory methods class in political science (Fall 2023 –
+            Spring 2024)
+          </li>
+          <li>
+            PLS 200: Introduction to Political Science by Prof. Erica Frantz,
+            Teaching Assistant (Fall 2022; Fall 2021)
+          </li>
+          <li>
+            ISS 318: Pandemics and Social Science by Prof. Erica Frantz,
+            Teaching Assistant (Summer 2022)
+          </li>
+          <li>
+            PLS 201: Introduction to Methods of Political Analysis by Prof.
+            Andrew Kerner, Teaching Assistant (Spring 2022; Summer 2021)
+          </li>
+          <li></li>
+        </ul>
         <h2 className="sub-title">SKILLS</h2>
         <ul className="list">
           <li>Software: R, Python</li>
