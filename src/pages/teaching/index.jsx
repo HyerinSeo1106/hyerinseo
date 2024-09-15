@@ -59,8 +59,8 @@ export default function TeachingPage() {
             became slightly or very confident in data analysis after the class.{" "}
           </li>
         </ul>
-        <img src={SurbeyImg1} alt="" style={{ marginTop: "2rem" }} />
-        <img src={SurbeyImg2} alt="" />
+        <img src={imgnew1} alt="" style={{ marginTop: "2rem" }} />
+        <img src={imgnew2} alt="" />
           <li>
             Research Methods, Teaching Assistant for workshops, lab sessions,
             and introductory methods class in political science (Fall 2023 –
