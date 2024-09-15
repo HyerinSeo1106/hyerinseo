@@ -38,6 +38,10 @@ export default function ResearchPage() {
             “Sustainable Energy Transition: Beyond Material Analysis” with
             Annick Anctil and Christian Houle (under review)
           </li>
+          <li>
+            “Everyday Nationalism Unleashed Online: Textual Evidence from South
+            Korea During the 2022 World Cup Games” (under revision)
+          </li>
         </ul>
         <Accordion className="mt-4">
           <AccordionSummary
@@ -45,50 +49,10 @@ export default function ResearchPage() {
             aria-controls="panel1-content"
             id="panel1-header"
           >
-            “Everyday Nationalism Unleashed Online: Textual Evidence from South
-            Korea During the 2022 World Cup Games” (under revision)
+            Paper Details
           </AccordionSummary>
           <AccordionDetails>
-            <Card sx={{ maxWidth: 700, margin: '0 auto' }}>
-              <CardMedia
-                sx={{ height: 300 }}
-                image={FightImg}
-                title=""
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="div">
-                  Abstract
-                </Typography>
-                <Typography variant="body2" color="text.secondary">
-                  Lizards are a widespread group of squamate reptiles, with over 6,000
-                  species, ranging across all continents except Antarctica
-                </Typography>
-              </CardContent>
-              <CardActions>
-                <Button size="small">Share</Button>
-                <Button size="small">Learn More</Button>
-              </CardActions>
-            </Card>
-            <Card sx={{ maxWidth: 700, margin: '0 auto' }}>
-              <CardMedia
-                sx={{ height: 300 }}
-                image={FigImg1}
-                title=""
-              />
-              <CardContent>
-                <Typography gutterBottom variant="h5" component="div">
-                  Abstract
-                </Typography>
-                <Typography variant="body2" color="text.secondary">
-                  Lizards are a widespread group of squamate reptiles, with over 6,000
-                  species, ranging across all continents except Antarctica
-                </Typography>
-              </CardContent>
-              <CardActions>
-                <Button size="small">Share</Button>
-                <Button size="small">Learn More</Button>
-              </CardActions>
-            </Card>
+            
             <h3 className="sub-title">Abstract</h3>
             <ul className="list">
               <li>
@@ -114,25 +78,20 @@ export default function ResearchPage() {
                 Keywords: everyday nationalism, online nationalism, East Asia, South
                 Korea, text analysis
               </li>
-            </ul>
-            <img src={FightImg} alt="" style={{ marginTop: "2rem " }} />
+              <li>
+                Figure 4
+                <img src={FightImg} alt="" style={{ marginTop: "2rem " }} />
+                A word cloud highlighting three national categories: Korea, Japan, and Others. Words associated with Korea show expressions of emotion, like love, praise, and crying, while posts about Japan often feature celebrations of their defeat, sometimes using negative emojis. Interestingly, Koreans often mention "Korea" when discussing Japan, reflecting a tendency to compare their own country with Japan. In contrast, words in the "Others" category, like Messi, Neymar, Brazil, and Argentina, are more neutral, focusing on players and countries rather than emotional reactions.
+              </li>
+            
             <img src={FigImg1} alt="" />
             <img src={FigImg2} alt="" />
+            </ul>
           </AccordionDetails>
         </Accordion>
 
         <h2 className="sub-title">PUBLICATIONS</h2>
         <ul className="list">
-          <li>
-            “Failure of the Muslim Brotherhood after 2011 Revolution in Egypt –
-            Concerning the Ideational Factors of the Brotherhood Leading to Its
-            Political Isolation.” 2017, M.A. Thesis.
-          </li>
-          <li>
-            “An Analysis on the Authority of the GCC Based on the Network
-            Theory.” The Journal of the Institute of the Middle East Studies,
-            2015, 34.1: 23-53
-          </li>
           <li>
             <a href="https://hdl.handle.net/10371/134137" target="__blank">
               “Failure of the Muslim Brotherhood after 2011 Revolution in Egypt

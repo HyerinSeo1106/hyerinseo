@@ -134,7 +134,7 @@ export default function MainPage() {
             Certificate in Computational Modeling, College of Engineering,
             Michigan State University (2023)
           </li>
-          <li>Fulbright Graduate Study Award (2019 – present)</li>
+          <li>Fulbright Graduate Study Award (2019 – 2024)</li>
           <li>
             Lecture & Research Scholarship, Seoul National University (Fall
             2016)
