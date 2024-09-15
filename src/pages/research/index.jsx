@@ -80,23 +80,32 @@ export default function ResearchPage() {
               </li>
               <li>
                 <img src={FightImg1} alt="" style={{ marginTop: "2rem " }} />
-                A word cloud highlighting three national categories: Korea, Japan, and Others. Words associated with Korea show expressions of emotion, like love, praise, and crying, while posts about Japan often feature celebrations of their defeat, sometimes using negative emojis. Interestingly, Koreans often mention "Korea" when discussing Japan, reflecting a tendency to compare their own country with Japan. In contrast, words in the "Others" category, like Messi, Neymar, Brazil, and Argentina, are more neutral, focusing on players and countries rather than emotional reactions.
+                A word cloud highlighting three national categories: Korea, Japan, and Others. Words associated with Korea 
+                show expressions of emotion, like love, praise, and crying, while posts about Japan often feature celebrations 
+                of their defeat, sometimes using negative emojis. Interestingly, Koreans often mention "Korea" when discussing Japan, 
+                reflecting a tendency to compare their own country with Japan. In contrast, words in the "Others" category, like Messi, 
+                Neymar, Brazil, and Argentina, are more neutral, focusing on players and countries rather than emotional reactions.
               </li>
               <li>
                 <img src={FigImg} alt="" />
-                A term category association plot, or "Fightin' Words" plot, which highlights the most distinctive words used in comments related to Korea and Japan. The plot shows how certain terms are exclusive to each category, with dots representing the most defining words. For posts about Korea, terms like "cute," "crying (ㅠㅠ)," and references to the Korean coach Bento and team captain Son Heung-min dominate. In contrast, comments about Japan feature laughter symbols, direct mentions of Japan, and derogatory depictions using monkey emojis. Notably, the term “war criminal” frequently appears when Koreans discuss Japan, reflecting deep-seated historical tensions between the two nations.
+                A term category association plot, or "Fightin' Words" plot, which highlights the most distinctive words used in 
+                comments related to Korea and Japan. The plot shows how certain terms are exclusive to each category, with dots 
+                representing the most defining words. For posts about Korea, terms like "cute," "crying (ㅠㅠ)," and references 
+                to the Korean coach Bento and team captain Son Heung-min dominate. In contrast, comments about Japan feature 
+                laughter symbols, direct mentions of Japan, and derogatory depictions using monkey emojis. Notably, the term 
+                “war criminal” frequently appears when Koreans discuss Japan, reflecting deep-seated historical tensions between the two nations.
               </li>
               <li>
                 <img src={FigImg2} alt="" />
-                Topic differences of Korea and Japan from a structural topic model. The contrast of topics prevalent for each country proves how the tones and terms used for each country are different with statistical significance.
+                Topic differences of Korea and Japan from a structural topic model. The contrast of topics prevalent for each country 
+                proves how the tones and terms used for each country are different with statistical significance.
               </li>
             </ul>
           </AccordionDetails>
         </Accordion>
-
           <li>
           <a href="https://preprints.apsanet.org/engage/apsa/article-details/66d53b4220ac769e5f922a89" target="__blank">
-            "Pride and Politics: The Varied Influence of National Pride on Political Behavior in South Korea, Japan, and China" (2024 APSA Presentation)
+            "Pride and Politics: The Varied Influence of National Pride on Political Behavior in South Korea, Japan, and China" (2024 APSA Presentation) </a>
           </li>
 
         <h2 className="sub-title">PUBLICATIONS</h2>
