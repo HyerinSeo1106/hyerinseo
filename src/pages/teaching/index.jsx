@@ -1,8 +1,8 @@
 import SyllabusPdf from "../../assets/etc/pls202_24spring_syllabus.pdf";
-import SurbeyImg1 from "../../assets/images/surbey1.png";
-import SurbeyImg2 from "../../assets/images/surbey2.png";
-import imgnew1 from "C:/Users/wayhr/OneDrive - Michigan State University/Desktop/PLS202_24SS/q1_plot.png";
-import imgnew2 from "C:/Users/wayhr/OneDrive - Michigan State University/Desktop/PLS202_24SS/q2_plot.png";
+import SurbeyImg1 from "../../assets/images/surbey1.png";//
+import SurbeyImg2 from "../../assets/images/surbey2.png";//
+import imgnew1 from "../../assets/images/q1_plot.png";
+import imgnew2 from "../../assets/images/q2_plot.png";
 
 export default function TeachingPage() {
   return (
