@@ -79,7 +79,7 @@ export default function ResearchPage() {
                 Korea, text analysis
               </li>
               <li>
-                <img src={FightImg} alt="" style={{ marginTop: "2rem " }} />
+                <img src={FigImg} alt="" style={{ marginTop: "2rem " }} />
                 A word cloud highlighting three national categories: Korea, Japan, and Others. Words associated with Korea 
                 show expressions of emotion, like love, praise, and crying, while posts about Japan often feature celebrations 
                 of their defeat, sometimes using negative emojis. Interestingly, Koreans often mention "Korea" when discussing Japan, 
@@ -87,7 +87,7 @@ export default function ResearchPage() {
                 Neymar, Brazil, and Argentina, are more neutral, focusing on players and countries rather than emotional reactions.
               </li>
               <li>
-                <img src={FigImg1} alt="" />
+                <img src={ightImg1} alt="" />
                 A term category association plot, or "Fightin' Words" plot, which highlights the most distinctive words used in 
                 comments related to Korea and Japan. The plot shows how certain terms are exclusive to each category, with dots 
                 representing the most defining words. For posts about Korea, terms like "cute," "crying (ㅠㅠ)," and references 

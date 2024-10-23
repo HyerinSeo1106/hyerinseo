@@ -12,7 +12,7 @@ export default function TeachingPage() {
         <ul className="list">
           <li>
             <a className="bold">PLS 202: Introduction to Data Analytics, Instructor (Spring 2024; Summer
-            2024; Fall 2024) </a>
+            2024; Fall 2024 )</a>
           </li>
               <li>
                 <a href={SyllabusPdf} target="__blank">
