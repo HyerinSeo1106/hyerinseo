@@ -53,7 +53,7 @@ export default function TeachingPage() {
         <Card>
           <CardHeader
             title="PLS 202"
-            subheader="Introduction to Data Analytics, Instructor (Spring 2024; Summer 2024; Fall 2024"
+            subheader="Introduction to Data Analytics, Instructor (Spring 2024; Summer 2024; Fall 2024)"
           />
           <CardContent>
             <h3 className="sub-title">

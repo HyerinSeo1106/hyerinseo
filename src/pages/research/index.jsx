@@ -75,7 +75,7 @@ export default function ResearchPage() {
                 Keywords: everyday nationalism, online nationalism, East Asia,
                 South Korea, text analysis
               </li>
-              <img src={FightImg} alt="" style={{ marginTop: "2rem " }} />
+              <img src={FigImg1} alt="" style={{ marginTop: "2rem " }} />
               <li>
                 word cloud highlighting three national categories: Korea, Japan,
                 and Others. Words associated with Korea show expressions of
@@ -88,7 +88,7 @@ export default function ResearchPage() {
                 neutral, focusing on players and countries rather than emotional
                 reactions.
               </li>
-              <img src={FigImg1} alt="" />
+              <img src={FightImg} alt="" />
               <li>
                 A term category association plot, or "Fightin' Words" plot,
                 which highlights the most distinctive words used in comments
